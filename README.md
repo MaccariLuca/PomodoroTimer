@@ -31,8 +31,8 @@ A **terminal-based Pomodoro timer** built in pure Python with deep analytics, se
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/pomodoro-timer.git
-cd pomodoro-timer
+git clone https://github.com/maccariluca/pomodoroTimer.git
+cd pomodoroTimer
 
 # Run
 python pomodoro_timer.py
